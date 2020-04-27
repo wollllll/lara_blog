@@ -2,308 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ca12669-455d-4189-bf6a-78ce0c2ebb07" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.vagrant/machines/default/virtualbox/action_provision" beforeDir="false" afterPath="$PROJECT_DIR$/../.vagrant/machines/default/virtualbox/action_provision" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.vagrant/machines/default/virtualbox/action_set_name" beforeDir="false" afterPath="$PROJECT_DIR$/../.vagrant/machines/default/virtualbox/action_set_name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.vagrant/machines/default/virtualbox/id" beforeDir="false" afterPath="$PROJECT_DIR$/../.vagrant/machines/default/virtualbox/id" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.vagrant/machines/default/virtualbox/index_uuid" beforeDir="false" afterPath="$PROJECT_DIR$/../.vagrant/machines/default/virtualbox/index_uuid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.vagrant/machines/default/virtualbox/private_key" beforeDir="false" afterPath="$PROJECT_DIR$/../.vagrant/machines/default/virtualbox/private_key" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vagrantfile" beforeDir="false" afterPath="$PROJECT_DIR$/../Vagrantfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker-compose.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/auto.cnf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/ca-key.pem" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/ca.pem" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/client-cert.pem" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/client-key.pem" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/database/db.opt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/ib_buffer_pool" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/ib_logfile0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/ib_logfile1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/ibdata1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/ibtmp1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/columns_priv.MYD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/columns_priv.MYI" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/columns_priv.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/db.MYD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/db.MYI" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/db.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/db.opt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/engine_cost.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/engine_cost.ibd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/event.MYD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/event.MYI" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/event.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/func.MYD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/func.MYI" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/func.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/general_log.CSM" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/general_log.CSV" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/general_log.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/gtid_executed.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/gtid_executed.ibd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/help_category.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/help_category.ibd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/help_keyword.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/help_keyword.ibd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/help_relation.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/help_relation.ibd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/help_topic.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/help_topic.ibd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/innodb_index_stats.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/innodb_index_stats.ibd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/innodb_table_stats.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/innodb_table_stats.ibd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/ndb_binlog_index.MYD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/ndb_binlog_index.MYI" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/ndb_binlog_index.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/plugin.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/plugin.ibd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/proc.MYD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/proc.MYI" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/proc.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/procs_priv.MYD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/procs_priv.MYI" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/procs_priv.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/proxies_priv.MYD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/proxies_priv.MYI" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/proxies_priv.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/server_cost.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/server_cost.ibd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/servers.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/servers.ibd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/slave_master_info.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/slave_master_info.ibd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/slave_relay_log_info.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/slave_relay_log_info.ibd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/slave_worker_info.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/slave_worker_info.ibd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/slow_log.CSM" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/slow_log.CSV" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/slow_log.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/tables_priv.MYD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/tables_priv.MYI" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/tables_priv.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/time_zone.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/time_zone.ibd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/time_zone_leap_second.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/time_zone_leap_second.ibd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/time_zone_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/time_zone_name.ibd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/time_zone_transition.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/time_zone_transition.ibd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/time_zone_transition_type.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/time_zone_transition_type.ibd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/user.MYD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/user.MYI" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/mysql/user.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/accounts.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/cond_instances.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/db.opt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_stages_current.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_stages_history.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_stages_history_long.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_stages_summary_by_account_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_stages_summary_by_host_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_stages_summary_by_thread_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_stages_summary_by_user_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_stages_summary_global_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_statements_current.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_statements_history.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_statements_history_long.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_statements_summary_by_account_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_statements_summary_by_digest.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_statements_summary_by_host_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_statements_summary_by_program.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_statements_summary_by_thread_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_statements_summary_by_user_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_statements_summary_global_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_transactions_current.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_transactions_history.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_transactions_history_long.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_transactions_summary_by_account_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_transactions_summary_by_host_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_transactions_summary_by_thread_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_transactions_summary_by_user_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_transactions_summary_global_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_waits_current.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_waits_history.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_waits_history_long.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_waits_summary_by_account_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_waits_summary_by_host_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_waits_summary_by_instance.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_waits_summary_by_thread_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_waits_summary_by_user_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/events_waits_summary_global_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/file_instances.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/file_summary_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/file_summary_by_instance.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/global_status.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/global_variables.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/host_cache.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/hosts.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/memory_summary_by_account_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/memory_summary_by_host_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/memory_summary_by_thread_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/memory_summary_by_user_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/memory_summary_global_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/metadata_locks.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/mutex_instances.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/objects_summary_global_by_type.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/performance_timers.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/prepared_statements_instances.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/replication_applier_configuration.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/replication_applier_status.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/replication_applier_status_by_coordinator.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/replication_applier_status_by_worker.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/replication_connection_configuration.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/replication_connection_status.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/replication_group_member_stats.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/replication_group_members.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/rwlock_instances.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/session_account_connect_attrs.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/session_connect_attrs.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/session_status.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/session_variables.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/setup_actors.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/setup_consumers.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/setup_instruments.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/setup_objects.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/setup_timers.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/socket_instances.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/socket_summary_by_event_name.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/socket_summary_by_instance.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/status_by_account.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/status_by_host.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/status_by_thread.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/status_by_user.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/table_handles.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/table_io_waits_summary_by_index_usage.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/table_io_waits_summary_by_table.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/table_lock_waits_summary_by_table.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/threads.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/user_variables_by_thread.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/users.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/performance_schema/variables_by_thread.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/private_key.pem" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/public_key.pem" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/server-cert.pem" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/server-key.pem" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/db.opt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/host_summary.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/host_summary_by_file_io.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/host_summary_by_file_io_type.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/host_summary_by_stages.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/host_summary_by_statement_latency.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/host_summary_by_statement_type.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/innodb_buffer_stats_by_schema.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/innodb_buffer_stats_by_table.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/innodb_lock_waits.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/io_by_thread_by_latency.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/io_global_by_file_by_bytes.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/io_global_by_file_by_latency.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/io_global_by_wait_by_bytes.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/io_global_by_wait_by_latency.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/latest_file_io.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/memory_by_host_by_current_bytes.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/memory_by_thread_by_current_bytes.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/memory_by_user_by_current_bytes.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/memory_global_by_current_bytes.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/memory_global_total.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/metrics.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/processlist.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/ps_check_lost_instrumentation.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/schema_auto_increment_columns.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/schema_index_statistics.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/schema_object_overview.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/schema_redundant_indexes.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/schema_table_lock_waits.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/schema_table_statistics.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/schema_table_statistics_with_buffer.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/schema_tables_with_full_table_scans.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/schema_unused_indexes.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/session.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/session_ssl_status.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/statement_analysis.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/statements_with_errors_or_warnings.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/statements_with_full_table_scans.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/statements_with_runtimes_in_95th_percentile.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/statements_with_sorting.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/statements_with_temp_tables.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/sys_config.TRG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/sys_config.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/sys_config.ibd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/sys_config_insert_set_user.TRN" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/sys_config_update_set_user.TRN" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/user_summary.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/user_summary_by_file_io.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/user_summary_by_file_io_type.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/user_summary_by_stages.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/user_summary_by_statement_latency.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/user_summary_by_statement_type.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/version.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/wait_classes_global_by_avg_latency.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/wait_classes_global_by_latency.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/waits_by_host_by_latency.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/waits_by_user_by_latency.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/waits_global_by_latency.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024host_summary.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024host_summary_by_file_io.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024host_summary_by_file_io_type.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024host_summary_by_stages.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024host_summary_by_statement_latency.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024host_summary_by_statement_type.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024innodb_buffer_stats_by_schema.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024innodb_buffer_stats_by_table.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024innodb_lock_waits.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024io_by_thread_by_latency.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024io_global_by_file_by_bytes.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024io_global_by_file_by_latency.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024io_global_by_wait_by_bytes.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024io_global_by_wait_by_latency.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024latest_file_io.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024memory_by_host_by_current_bytes.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024memory_by_thread_by_current_bytes.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024memory_by_user_by_current_bytes.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024memory_global_by_current_bytes.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024memory_global_total.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024processlist.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024ps_digest_95th_percentile_by_avg_us.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024ps_digest_avg_latency_distribution.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024ps_schema_table_statistics_io.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024schema_flattened_keys.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024schema_index_statistics.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024schema_table_lock_waits.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024schema_table_statistics.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024schema_table_statistics_with_buffer.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024schema_tables_with_full_table_scans.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024session.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024statement_analysis.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024statements_with_errors_or_warnings.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024statements_with_full_table_scans.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024statements_with_runtimes_in_95th_percentile.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024statements_with_sorting.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024statements_with_temp_tables.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024user_summary.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024user_summary_by_file_io.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024user_summary_by_file_io_type.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024user_summary_by_stages.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024user_summary_by_statement_latency.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024user_summary_by_statement_type.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024wait_classes_global_by_avg_latency.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024wait_classes_global_by_latency.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024waits_by_host_by_latency.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024waits_by_user_by_latency.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/db/data/sys/x@0024waits_global_by_latency.frm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/nginx/default.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/php/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/php/php.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../run-docker-compose.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/docker-for-laravel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/docker-for-laravel.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
@@ -311,6 +21,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -411,7 +122,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1b2TORaQXyOnt7KX8bEqoweJoOl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -420,13 +133,23 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/posts" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\private\work\docker_on_centos7.4\docker-for-laravel\resources\views\component\modal" />
+      <recent name="C:\Users\private\work\docker_on_centos7.4\docker-for-laravel\app\Http\Requests\Post" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\private\work\docker_on_centos7.4\docker-for-laravel\resources\views\posts" />
+      <recent name="C:\Users\private\work\docker_on_centos7.4\docker-for-laravel\app\Http\Requests\Post" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -444,11 +167,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587829155307</updated>
-      <workItem from="1587829156547" duration="2157000" />
+      <workItem from="1587829156547" duration="16806000" />
+      <workItem from="1587928218737" duration="2259000" />
+      <workItem from="1587992066492" duration="1100000" />
     </task>
+    <task id="LOCAL-00001" summary="1.1">
+      <created>1587832956430</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587832956430</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="501" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587839679089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="501" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1587839679089" />
+    <state x="621" y="244" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1587929187962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="621" y="244" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1587929187962" />
+    <state x="365" y="7" key="CommitChangelistDialog2" timestamp="1587832954584">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="365" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587832954584" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1587832962253">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587832962253" />
   </component>
 </project>
