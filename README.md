@@ -1,4 +1,4 @@
-# lara_blog_repository_pattern
+# 概要
 
 普段はserviceを取りいれビジネスロジックを分離してるが、repositoryを取りいれデータ操作の部分も切り離してみた。  
 
